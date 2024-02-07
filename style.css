@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+table,th,td{
+    border: 2px solid blue;
+    position: relative;
+    align-self: center;
+}
+.container{
+    display: grid;
+}
+
+
